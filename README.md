@@ -13,6 +13,11 @@ git clone https://github.com/valerievna2212/HelloWorld.git
 # check status of the repo (to see new files. updated files and so on)
 $ git status
 
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
 # Add file to local repo
 $ git add HelloWorld.java
 
