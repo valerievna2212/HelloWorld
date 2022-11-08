@@ -18,10 +18,10 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 
-# Add file to local repo
+# Add file to the local repo
 $ git add HelloWorld.java
 
-# Commit file (updates will be commited o the local repo, not to the remote yet)
+# Commit file (updates will be commited to the local repo, not to the remote repo yet)
 $ git commit -m "added new file" HelloWorld.java
 [main 765ebd1] added new file
 1 file changed, 7 insertions(+)
