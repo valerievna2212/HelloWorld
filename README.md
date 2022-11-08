@@ -7,7 +7,7 @@ Git commands
 <pre>
 git clone https://github.com/valerievna2212/HelloWorld.git
 </pre>
-- How to add new file into repo repo
+- Few other useful git commands
 <pre>
 
 # check status of the repo (to see new files. updated files and so on)
